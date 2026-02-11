@@ -1,7 +1,7 @@
-# 🔊 SoundButtons.com
+# 🔊 [SoundButtons.com](https://soundbuttons.com/)
 
 <p align="center">
-  Free Online Meme Soundboard – Play & Download Viral Sound Effects Instantly 🎵🔥
+  Free Online <a href="https://soundbuttons.com/meme-soundboard" target="_blank">Meme Soundboard</a> – Play & Download Viral Sound Effects Instantly 🎵
 </p>
 
 ---
@@ -65,17 +65,6 @@ Perfect for:
 3. Click any sound button to play instantly
 4. Download if needed
 5. Use in reels, gaming, streaming or memes
-
----
-
-## 🎯 Best Use Cases
-
-- Content creators
-- Meme editors
-- Gamers & streamers
-- Social media managers
-- Reaction videos
-- Sound effect collectors
 
 ---
 
